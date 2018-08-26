@@ -1,1 +1,1 @@
-musica: python "bot.py"
+musica: python "musica.py"
