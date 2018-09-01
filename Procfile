@@ -1,1 +1,1 @@
-musica: python "musica.py"
+worker: node index.js
